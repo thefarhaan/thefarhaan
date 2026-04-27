@@ -3,7 +3,7 @@
 Disciplined. Focused. Execution-driven.
 
 I don’t believe in motivation.  
-I believe in consistency, systems, and showing up every day — even when it’s hard.
+I believe in consistency, systems, and showing up every day even when it’s hard.
 
 ---
 
