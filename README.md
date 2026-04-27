@@ -27,17 +27,14 @@ I believe in consistency, systems, and showing up every day — even when it’s
 
 ## 🚀 Featured Projects
 
-- **LearnVerse (Virtual Campus)**  
+- **[LearnVerse (Virtual Campus)](http://codelift-learnverse.vercel.app/)**  
   Real-time multiplayer campus with proximity communication using WebRTC, Socket.io, and Phaser  
-  🔗 [Codelift](https://kleanone.in/)
 
-- **Terracottic**  
+- **[Terracottic](https://terracottic.com/)**  
   Full-stack eCommerce platform with admin panel, moderator system, and real-time user interaction  
- 🔗 [Terracottic](https://terracottic.com/)
 
-- **Kleanone**  
+- **[KleanOne](https://kleanone.in/)**  
   Scalable eCommerce solution focused on performance and clean user experience  
- 🔗 [KleanOne](https://kleanone.in/)
 
 ---
 
@@ -59,7 +56,7 @@ Execution > Perfection
 
 ## 📫 Connect
 
-- Portfolio: https://thefarhaan.vercel.app/  
+- Portfolio: [The Farhaan](https://thefarhaan.vercel.app/)  
 - GitHub: https://github.com/thefarhaan  
 - Email: farhaanthegenius@gmail.com  
 
